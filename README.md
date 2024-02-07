@@ -1,6 +1,3 @@
-[![MasterHead]([https://camo.githubusercontent.com/775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26b6/68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966)](https://suyogghate.io](https://i.imgur.com/AJhWuTS.png))
-
-![Alt text](image link)
 
 <a href="https://imgur.com/AJhWuTS"><img src="https://i.imgur.com/AJhWuTS.png" title="source: imgur.com" /></a>
 <h1 align="center">Hi 👋, I'm Mallesh</h1>
