@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **usirikapallymallesh@gmail.com**
 
-- ⚡ Fun fact **I am funny to code.**
+- ⚡ Passionate about learning & development to reach the target.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
