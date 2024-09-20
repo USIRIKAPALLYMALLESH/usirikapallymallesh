@@ -2,7 +2,7 @@
 <a href="https://imgur.com/AJhWuTS"><img src="https://i.imgur.com/Vaaly63.jpg" title="profile name" /></a>
 <h1 align="center">Hi 👋, I'm Mallesh</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
-<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Alt text" width="500" height="350" align="right" alt="Coding"> 
+<img src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" alt="Alt text" width="500" height="350" align="right" alt="Coding"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usirikapallymallesh&label=Profile%20views&color=0e75b6&style=flat" alt="usirikapallymallesh" /> </p>
 
